@@ -6,4 +6,4 @@ This is a website that will contain recipes. This project will demonstrate my un
 
 ## Post Self-Reflection
 
-
+Used basic html to create a recipe website. This website uses elements like <p>, <a>, <img>, <ul>, <ol>, and others.
