@@ -1,0 +1,33 @@
+html {
+    background-color: grey;
+    color: black;
+    text-align: center;
+    font-family: "Time New Roman", serif;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 18px;
+}
+
+h1 {
+    margin-left: 42px;
+    margin-right: auto;
+    font-weight: bold;
+}
+
+h2 {
+    margin-left: 42px;
+    margin-right: auto;
+    font-weight: bold;
+}
+
+h3 {
+    margin-left: 42px;
+    margin-right: auto;
+    font-weight: bold;
+}
+
+ol {
+    list-style-position: inside;
+}
