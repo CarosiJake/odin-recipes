@@ -3,31 +3,34 @@ html {
     color: black;
     text-align: center;
     font-family: "Time New Roman", serif;
+    box-sizing: border-box;
 }
 
 ul {
     list-style-type: none;
     font-size: 18px;
+    margin: 0 auto;
+    padding: 0px;
 }
 
 h1 {
-    margin-left: 42px;
-    margin-right: auto;
+    margin: 20px;
     font-weight: bold;
 }
 
 h2 {
-    margin-left: 42px;
-    margin-right: auto;
+    margin: 20px;
     font-weight: bold;
 }
 
 h3 {
-    margin-left: 42px;
-    margin-right: auto;
+    margin: 20px;
     font-weight: bold;
 }
 
 ol {
     list-style-position: inside;
+    font-size: 18px;
+    margin: 0 auto;
+    padding: 0px;
 }
